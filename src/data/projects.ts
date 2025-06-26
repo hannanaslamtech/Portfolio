@@ -13,7 +13,7 @@ export type Project = {
 export const projects: Project[] = [
   {
     id: 1,
-    title: "Egency Eleva",
+    title: "Agency Eleva",
     description: "Developed a comprehensive marketing portal with secure login system that handles complete social media management through monthly subscriptions. The platform manages strategy, content creation, publishing, and artistic direction to ensure consistent and impactful communication. For one-time needs, I implemented 'one-shot' packages allowing clients to create extensive content in single sessions including photos, videos, and drone footage. The system also includes modern website design capabilities and services for visual identity, digital strategy, and marketing to refine company DNA and maximize online impact. Built with JWT authentication, form validation, and a robust backend API for managing user data and sessions.",
     image: "/imgs/p6.png",
     tags: ["React", "Node.js", "Express", "JWT", "MongoDB", "Tailwind css"],

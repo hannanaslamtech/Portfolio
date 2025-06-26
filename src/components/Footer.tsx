@@ -51,7 +51,7 @@ const Footer = () => {
             </div>
             <div className="text-gray-400 text-sm text-right">
               <p>
-                © {currentYear} | Designed and Developed by Abdul Hannan
+                © {currentYear} | Designed and Developed by Abdul Hannan Aslam
               </p>
             </div>
           </div>

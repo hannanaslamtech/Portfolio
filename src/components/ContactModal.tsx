@@ -17,7 +17,7 @@ export default function ContactModal({ open, onOpenChange }: ContactModalProps) 
           <DialogTitle className="text-2xl text-center font-bold text-primary mb-2">Contact Info</DialogTitle>
         </DialogHeader>
         <div className="space-y-2 text-center">
-          <div className="font-semibold text-lg">Abdul Hannan</div>
+          <div className="font-semibold text-lg">Abdul Hannan Aslam</div>
           <div className="text-muted-foreground">{Links.location}</div>
           <div className="flex flex-col gap-1 items-center mt-2">
             <a href={Links.email} className="flex items-center gap-2 hover:text-primary transition-colors">

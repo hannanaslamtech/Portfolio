@@ -177,7 +177,7 @@ monitoring progress and resolving performance bottlenecks.
               variants={itemVariants}
               className="text-center lg:text-left"
             >
-              <h3 className="text-2xl font-bold">Abdul Hannan</h3>
+              <h3 className="text-2xl font-bold">Abdul Hannan Aslam</h3>
               <p className="text-muted-foreground">
                 Full Stack Engineering
               </p>
