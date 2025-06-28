@@ -94,8 +94,7 @@ const SkillsSection = () => {
                     className="inline-block px-3 py-1 bg-background border border-border rounded-full text-sm"
                     variants={skillItemVariants}
                     whileHover={{
-                      scale: 1.05,
-                      backgroundColor: "rgba(var(--primary), 0.05)",
+                      scale: 1.10,
                     }}
                     whileTap={{ scale: 0.98 }}
                   >
