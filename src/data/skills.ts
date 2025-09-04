@@ -27,7 +27,7 @@ export const skillCategories: SkillCategory[] = [
   {
     name: "DevOps Tools & Technologies",
     icon: Cpu,
-    skills: ["Docker", "Docker Compose","Vercel","Netlify"],
+    skills: ["AWS", "Github Actions", "Docker", "Docker Compose","Vercel","Netlify"],
   },
   {
     name: " Collaboration and Project Management Tools",

@@ -123,9 +123,9 @@ monitoring progress and resolving performance bottlenecks.
                     </h3>
                     <div className="space-y-4">
                       <div>
-                        <p className="font-medium">Senior Software Engineer</p>
+                        <p className="font-medium">Sr. Software Engineer</p>
                         <p className="text-sm text-muted-foreground">
-                          Awami System Technologies
+                          Awami System Technologies 
                         </p>
                         <p className="text-sm text-muted-foreground">
                           Jul 2023 - Present
@@ -136,7 +136,7 @@ monitoring progress and resolving performance bottlenecks.
                           Software Engineer
                         </p>
                         <p className="text-sm text-muted-foreground">
-                          The Orange Club 
+                          The Orange Club | Dubai, UAE, remote
                         </p>
                         <p className="text-sm text-muted-foreground">
                          Sep 2022 – Jul 2023
@@ -165,7 +165,7 @@ monitoring progress and resolving performance bottlenecks.
               <Avatar className="w-40 h-40 border-4 border-primary/20">
                 <AvatarImage
                   src="/imgs/abdul-hannan.jpeg"
-                  alt="Aathif Zahir"
+                  alt="Abdul Hannan Aslam"
                   loading="lazy"
                 />
                 <AvatarFallback>AH</AvatarFallback>
@@ -179,7 +179,7 @@ monitoring progress and resolving performance bottlenecks.
             >
               <h3 className="text-2xl font-bold">Abdul Hannan Aslam</h3>
               <p className="text-muted-foreground">
-                Full Stack Engineering
+                Software Engineer
               </p>
               <p className="text-muted-foreground">
                 Islamabad, Pakistan
